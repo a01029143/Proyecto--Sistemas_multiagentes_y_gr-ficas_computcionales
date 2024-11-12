@@ -1,5 +1,6 @@
 # Proyecto--Multiagentes_y_graficas_computcionales
 
+Repositorio dedicado a Proyecto para la materia de:
 TC2008B.301 - Modelación de sistemas multiagentes con gráficas computacionales
 
 ## Miembros de equipo de trabajo (Grupo 6):
